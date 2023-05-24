@@ -1,3 +1,3 @@
 const enviromento = require("share")
 
-enviromento("frontend")
+enviromento("Frontend")

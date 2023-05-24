@@ -1,3 +1,3 @@
-const enviromento = require("share")
+const environmento = require("share")
 
-enviromento("Frontend")
+environmento("Frontend")

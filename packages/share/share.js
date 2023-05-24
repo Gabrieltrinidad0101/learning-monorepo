@@ -1,3 +1,3 @@
-module.exports = (enviroment)=>{
-    console.log("I am " + enviroment)
+module.exports = (environment)=>{
+    console.log("I am " + environment)
 }

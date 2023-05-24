@@ -9,7 +9,8 @@
   },
   "scripts": {
     "co": "sui-mono commit",
-    "check": "sui-mono check"
+    "check": "sui-mono check",
+    "release": "sui-mono release"
   },
   "workspaces": [
     "packages/*"
